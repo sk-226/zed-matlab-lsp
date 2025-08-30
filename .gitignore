@@ -1,0 +1,13 @@
+# Build artifacts
+target/
+
+# OS/editor cruft
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.swp
+*.tmp
+
+# Keep extension.wasm tracked (do not ignore)
+# extension.wasm
