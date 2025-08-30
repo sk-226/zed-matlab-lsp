@@ -1,0 +1,10 @@
+id = "matlab-lsp"
+name = "MATLAB LSP"
+description = "MATLAB language support via MATLAB Language Server"
+version = "0.1.0"
+schema_version = 1
+authors = ["sk-226 <skurita0208@gmail.com>"]
+
+[language_servers.matlab-language-server]
+name = "MATLAB Language Server"
+languages = ["MATLAB"]

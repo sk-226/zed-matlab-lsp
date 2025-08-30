@@ -1,0 +1,9 @@
+name = "MATLAB"
+path_suffixes = ["m"]
+line_comments = ["%"]
+block_comment = ["%{", "%}"]
+brackets = [
+    { start = "(", end = ")", close = true, newline = false },
+    { start = "[", end = "]", close = true, newline = false },
+    { start = "{", end = "}", close = true, newline = false },
+]
