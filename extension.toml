@@ -4,6 +4,7 @@ description = "MATLAB language support via MATLAB Language Server"
 version = "0.1.0"
 schema_version = 1
 authors = ["sk-226 <skurita0208@gmail.com>"]
+repository = "https://github.com/sk-226/zed-matlab-lsp"
 
 [language_servers.matlab-language-server]
 name = "MATLAB Language Server"
